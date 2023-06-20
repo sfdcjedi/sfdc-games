@@ -3,9 +3,11 @@ A web based game in Salesforce. Just for fun.
 
 It is a copy of Google Chrome dino runner game. 
 
-[View the story on Medium (Inglés)]()
+More games coming. 
 
-[Ver el artículo en Medium (Español)]()
+[View the story on Medium (Inglés)](https://medium.com/@sfdcjedi/making-a-videogame-in-salesforce-e3f7ecde58b2)
+
+[Ver el artículo en Medium (Español)](https://medium.com/@sfdcjedi/creando-un-videojuego-en-salesforce-e200629d8bce)
 
 <a href="https://githubsfdeploy.herokuapp.com?owner=Salesforce Jedi&repo=https://github.com/sfdcjedi/sfdc-games&ref=main">
   <img alt="Deploy to Salesforce"
