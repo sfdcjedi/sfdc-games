@@ -1,4 +1,4 @@
-# SFDC Automated Tests
+# SFDC Games
 A web based game in Salesforce. Just for fun. 
 
 It is a copy of Google Chrome dino runner game. 
