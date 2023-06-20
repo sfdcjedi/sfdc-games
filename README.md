@@ -17,4 +17,4 @@ It is a copy of Google Chrome dino runner game.
 - **dinoRunner**: Dino Runner Game in Lightning Web Component
 
 # Example
-![dino runner](https://github.com/sfdcjedi/sfdc-games/blob/v1/dino_runner.gif)
+![dino runner](https://github.com/sfdcjedi/sfdc-games/blob/main/dino_runner.gif)
